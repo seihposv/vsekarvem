@@ -33,15 +33,3 @@ elif number == 14:
     print("Вы выбрали аркан 'Умеренность'")
 elif number == 15:
     print("Вы выбрали аркан 'Дьявол'")
-elif number == 16:
-    print("Вы выбрали аркан 'Башня'")
-elif number == 17:
-    print("Вы выбрали аркан 'Звезда'")
-elif number == 18:
-    print("Вы выбрали аркан 'Луна'")
-elif number == 19:
-    print("Вы выбрали аркан 'Солнце'")
-elif number == 20:
-    print("Вы выбрали аркан 'Суд'")
-elif number == 21:
-    print("Вы выбрали аркан 'Мир'")
