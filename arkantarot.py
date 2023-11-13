@@ -41,3 +41,7 @@ elif number == 18:
     print("Вы выбрали аркан 'Луна'")
 elif number == 19:
     print("Вы выбрали аркан 'Солнце'")
+elif number == 20:
+    print("Вы выбрали аркан 'Суд'")
+elif number == 21:
+    print("Вы выбрали аркан 'Мир'")
